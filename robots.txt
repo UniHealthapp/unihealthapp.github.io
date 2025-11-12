@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://unihealthapp.github.io/UniHealth/sitemap.xml
